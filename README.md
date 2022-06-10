@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudheer Gummalla
 - 👀 I’m interested in Linux device driver Development, Linux rileated  A - Z
-- 🌱 I’m currently learning DevOps, shelling
+- 🌱 I’m currently learning DevOps, shell Scripting.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sudheer27g@gmail.com
 
